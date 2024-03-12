@@ -15,6 +15,7 @@ def descargar_y_decodificar_json(url):
     else:
         return None
 
+
 # URL del archivo JSON a descargar
 url = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US"
 
