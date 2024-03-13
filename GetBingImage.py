@@ -28,4 +28,3 @@ print("URL de la imagen:", url_imagen)
 
 # Descarga la imagen
 urllib.request.urlretrieve(url_imagen, "BingDailyImage.jpg")
-# urllib.request.urlretrieve(url_imagen, "/var/www/snaps2u-web/web/img/home_background.jpg")  
